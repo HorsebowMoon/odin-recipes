@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: bisque;
+    color: rgb(54, 52, 52);
+}
+
+h1 {
+    background-color: rgb(72, 140, 185);
+    text-align: center;
+}
+
+a{
+    color:rgb(54, 52, 52);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    background-color: rgb(132, 166, 189);
+}
+
+h3 {
+    background-color: rgb(170, 180, 187);
+}
+
+.ingredients,
+.steps,
+.description {
+    background-color: azure;
+}
+
+
+
